@@ -1,0 +1,14 @@
+*{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+}
+
+.nav:hover {
+     color: rgb(37, 37, 37);
+}
+
+.nav {
+     text-decoration: none;
+     color: rgb(51, 19, 197);
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
